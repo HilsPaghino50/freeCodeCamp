@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+        <ul>
+         <li><a href="#upcoming-events">Upcoming Events</a></li>
+         <li><a href="#past-events">Past Events</a></li>
+        </ul>
+        </nav>
+    </header>
+<main>
+    <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <article>
+            <h3>Fiera dello Spettacolo e Recitazione</h3>
+            
+            <p>Questa fiera a Como, in Piazza Cavour dalle 8 alle 17.30 il giorno 28/09/2026, ti farà capire il mondo dello Spettacolo e Recitazione, trucchetti e anche diverse opere.
+            26/09/2026, Milano</p>
+        </article>
+        <article>
+            <h3>Concerto - Scuola Secondaria "Dario Moccia"</h3>
+            <p>La scuola media di Como "Dario Moccia" organizzerà uno spettacolo di 3h per il loro concerto musicale.</p>
+        </article>
+    </section>
+    <section id="past-events">
+        <h2>Past Events</h2>
+        <article>
+            <h3>Corso di Marketing aperto a tutti</h3>
+            <p>Settimana Scorsa, IMPRENDITORE VERO, in Piazza Cavour a parlato sul Maarkteing e Imprenditoria</p>
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="PC usato smontato davanti a tutti, da una cosa di 50 euro, ne trovi 10 da 200."></img>
+        </article>
+        <article>
+            <h3>Corso di Cucina</h3>
+            <p>Noi come societa (cioè solo io, fittizia) abbiamo l'anno scorso creato un corso di cucina gigante per tutta Italia e tre dei nostri finalisti è andato a MasterChef ITALIA</p>
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Rumore Bianco, immagine rilassante = Cucinare in totale calma"></img>
+        </article>
+    </section>
+</main>
+
+</body>
+
+</html>
